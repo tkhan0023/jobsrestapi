@@ -4,7 +4,7 @@ info:
   contact: {}
   version: '1.0'
 servers:
-  - url: https://tempai.onrender.com/api/v1
+  - url: https://tempai.onrender.com/a
     variables: {}
 paths:
   /auth/register:
